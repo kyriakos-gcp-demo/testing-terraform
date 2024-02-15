@@ -9,4 +9,5 @@ terraform {
 
 provider "google" {
   region      = "us-central1"
+  project = "neural-cable-406816"
 }
